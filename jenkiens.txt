@@ -39,9 +39,4 @@
 
 
 sudo nautilus
-
-
-
-
-
-
+- open file manager with root privileges
